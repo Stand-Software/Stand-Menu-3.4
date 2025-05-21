@@ -1001,14 +1001,14 @@ ConfigTab:AddBind({
 ConfigTab:AddButton({
     Name = "Reiniciar Script",
     Callback = function()
-        loadstring(game:HttpGet(('https://raw.githubusercontent.com/japa777666/japa31/refs/heads/main/README.md')))() 
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/Stand-Software/Stand-Menu-3.4/refs/heads/main/README.md')))() 
     end
 })
 
 ConfigTab:AddButton({
     Name = "Voltar Ao Menu Principal",
     Callback = function()
-        loadstring(game:HttpGet(('https://raw.githubusercontent.com/japa777666/japaini3333/refs/heads/main/README.md')))() 
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/Stand-Software/Stand-Menu/refs/heads/main/README.md')))() 
     end
 })
 
